@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://siva:siva8993@devconnector.b47kk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "JwtSecret"
+}
